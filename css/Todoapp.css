@@ -1,0 +1,20 @@
+.icon{
+    width:30px;
+    height:30px;
+    background-color: red;
+    cursor: pointer;
+}
+
+
+.header{
+    background-image: linear-gradient(to right,red,blue);
+    background-clip: text;
+    color: transparent;
+    font-family: "Righteous", cursive;
+    font-size: 25px;
+}
+
+
+body{
+    background-image: linear-gradient(to right,rgb(141, 104, 104),white);
+}
